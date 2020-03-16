@@ -1,0 +1,41 @@
+C:\Users\Pierre\Desktop\Dossier études 2014 -\Dossier Paul Lambin\BLOC 3 2019 - 2020\Cours\Quadrimestre 1\ASP.NET\S3\SportsStore\SportsStore.Tests\obj\Debug\netcoreapp2.2\SportsStore.Tests.csprojAssemblyReference.cache
+C:\Users\Pierre\Desktop\Dossier études 2014 -\Dossier Paul Lambin\BLOC 3 2019 - 2020\Cours\Quadrimestre 1\ASP.NET\S3\SportsStore\SportsStore.Tests\obj\Debug\netcoreapp2.2\SportsStore.Tests.AssemblyInfoInputs.cache
+C:\Users\Pierre\Desktop\Dossier études 2014 -\Dossier Paul Lambin\BLOC 3 2019 - 2020\Cours\Quadrimestre 1\ASP.NET\S3\SportsStore\SportsStore.Tests\obj\Debug\netcoreapp2.2\SportsStore.Tests.AssemblyInfo.cs
+C:\Users\Pierre\Desktop\Dossier études 2014 -\Dossier Paul Lambin\BLOC 3 2019 - 2020\Cours\Quadrimestre 1\ASP.NET\S3\SportsStore\SportsStore.Tests\bin\Debug\netcoreapp2.2\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\Pierre\Desktop\Dossier études 2014 -\Dossier Paul Lambin\BLOC 3 2019 - 2020\Cours\Quadrimestre 1\ASP.NET\S3\SportsStore\SportsStore.Tests\bin\Debug\netcoreapp2.2\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\Pierre\Desktop\Dossier études 2014 -\Dossier Paul Lambin\BLOC 3 2019 - 2020\Cours\Quadrimestre 1\ASP.NET\S3\SportsStore\SportsStore.Tests\bin\Debug\netcoreapp2.2\xunit.runner.utility.netcoreapp10.dll
+C:\Users\Pierre\Desktop\Dossier études 2014 -\Dossier Paul Lambin\BLOC 3 2019 - 2020\Cours\Quadrimestre 1\ASP.NET\S3\SportsStore\SportsStore.Tests\bin\Debug\netcoreapp2.2\SportsStore.Views.dll
+C:\Users\Pierre\Desktop\Dossier études 2014 -\Dossier Paul Lambin\BLOC 3 2019 - 2020\Cours\Quadrimestre 1\ASP.NET\S3\SportsStore\SportsStore.Tests\bin\Debug\netcoreapp2.2\SportsStore.Views.pdb
+C:\Users\Pierre\Desktop\Dossier études 2014 -\Dossier Paul Lambin\BLOC 3 2019 - 2020\Cours\Quadrimestre 1\ASP.NET\S3\SportsStore\SportsStore.Tests\bin\Debug\netcoreapp2.2\SportsStore.Tests.deps.json
+C:\Users\Pierre\Desktop\Dossier études 2014 -\Dossier Paul Lambin\BLOC 3 2019 - 2020\Cours\Quadrimestre 1\ASP.NET\S3\SportsStore\SportsStore.Tests\bin\Debug\netcoreapp2.2\SportsStore.Tests.runtimeconfig.json
+C:\Users\Pierre\Desktop\Dossier études 2014 -\Dossier Paul Lambin\BLOC 3 2019 - 2020\Cours\Quadrimestre 1\ASP.NET\S3\SportsStore\SportsStore.Tests\bin\Debug\netcoreapp2.2\SportsStore.Tests.runtimeconfig.dev.json
+C:\Users\Pierre\Desktop\Dossier études 2014 -\Dossier Paul Lambin\BLOC 3 2019 - 2020\Cours\Quadrimestre 1\ASP.NET\S3\SportsStore\SportsStore.Tests\bin\Debug\netcoreapp2.2\SportsStore.Tests.dll
+C:\Users\Pierre\Desktop\Dossier études 2014 -\Dossier Paul Lambin\BLOC 3 2019 - 2020\Cours\Quadrimestre 1\ASP.NET\S3\SportsStore\SportsStore.Tests\bin\Debug\netcoreapp2.2\SportsStore.dll
+C:\Users\Pierre\Desktop\Dossier études 2014 -\Dossier Paul Lambin\BLOC 3 2019 - 2020\Cours\Quadrimestre 1\ASP.NET\S3\SportsStore\SportsStore.Tests\bin\Debug\netcoreapp2.2\SportsStore.pdb
+C:\Users\Pierre\Desktop\Dossier études 2014 -\Dossier Paul Lambin\BLOC 3 2019 - 2020\Cours\Quadrimestre 1\ASP.NET\S3\SportsStore\SportsStore.Tests\obj\Debug\netcoreapp2.2\SportsStore.Tests.csproj.CopyComplete
+C:\Users\Pierre\Desktop\Dossier études 2014 -\Dossier Paul Lambin\BLOC 3 2019 - 2020\Cours\Quadrimestre 1\ASP.NET\S3\SportsStore\SportsStore.Tests\bin\Debug\netcoreapp2.2\SportsStore.Tests.pdb
+C:\Users\Pierre\Desktop\Dossier études 2014 -\Dossier Paul Lambin\BLOC 3 2019 - 2020\Cours\Quadrimestre 1\ASP.NET\S3\SportsStore\SportsStore.Tests\obj\Debug\netcoreapp2.2\SportsStore.Tests.dll
+C:\Users\Pierre\Desktop\Dossier études 2014 -\Dossier Paul Lambin\BLOC 3 2019 - 2020\Cours\Quadrimestre 1\ASP.NET\S3\SportsStore\SportsStore.Tests\obj\Debug\netcoreapp2.2\SportsStore.Tests.pdb
+U:\bloc 3\ASP.NET\S3\SportsStore\SportsStore.Tests\bin\Debug\netcoreapp2.2\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+U:\bloc 3\ASP.NET\S3\SportsStore\SportsStore.Tests\bin\Debug\netcoreapp2.2\xunit.runner.reporters.netcoreapp10.dll
+U:\bloc 3\ASP.NET\S3\SportsStore\SportsStore.Tests\bin\Debug\netcoreapp2.2\xunit.runner.utility.netcoreapp10.dll
+U:\bloc 3\ASP.NET\S3\SportsStore\SportsStore.Tests\bin\Debug\netcoreapp2.2\SportsStore.Views.dll
+U:\bloc 3\ASP.NET\S3\SportsStore\SportsStore.Tests\bin\Debug\netcoreapp2.2\SportsStore.Views.pdb
+U:\bloc 3\ASP.NET\S3\SportsStore\SportsStore.Tests\bin\Debug\netcoreapp2.2\SportsStore.Tests.deps.json
+U:\bloc 3\ASP.NET\S3\SportsStore\SportsStore.Tests\bin\Debug\netcoreapp2.2\SportsStore.Tests.runtimeconfig.json
+U:\bloc 3\ASP.NET\S3\SportsStore\SportsStore.Tests\bin\Debug\netcoreapp2.2\SportsStore.Tests.runtimeconfig.dev.json
+U:\bloc 3\ASP.NET\S3\SportsStore\SportsStore.Tests\bin\Debug\netcoreapp2.2\SportsStore.Tests.dll
+U:\bloc 3\ASP.NET\S3\SportsStore\SportsStore.Tests\bin\Debug\netcoreapp2.2\SportsStore.Tests.pdb
+U:\bloc 3\ASP.NET\S3\SportsStore\SportsStore.Tests\bin\Debug\netcoreapp2.2\SportsStore.dll
+U:\bloc 3\ASP.NET\S3\SportsStore\SportsStore.Tests\bin\Debug\netcoreapp2.2\SportsStore.pdb
+U:\bloc 3\ASP.NET\S3\SportsStore\SportsStore.Tests\obj\Debug\netcoreapp2.2\SportsStore.Tests.csprojAssemblyReference.cache
+U:\bloc 3\ASP.NET\S3\SportsStore\SportsStore.Tests\obj\Debug\netcoreapp2.2\SportsStore.Tests.csproj.CoreCompileInputs.cache
+U:\bloc 3\ASP.NET\S3\SportsStore\SportsStore.Tests\obj\Debug\netcoreapp2.2\SportsStore.Tests.AssemblyInfoInputs.cache
+U:\bloc 3\ASP.NET\S3\SportsStore\SportsStore.Tests\obj\Debug\netcoreapp2.2\SportsStore.Tests.AssemblyInfo.cs
+U:\bloc 3\ASP.NET\S3\SportsStore\SportsStore.Tests\obj\Debug\netcoreapp2.2\SportsStore.Tests.csproj.CopyComplete
+U:\bloc 3\ASP.NET\S3\SportsStore\SportsStore.Tests\obj\Debug\netcoreapp2.2\SportsStore.Tests.dll
+U:\bloc 3\ASP.NET\S3\SportsStore\SportsStore.Tests\obj\Debug\netcoreapp2.2\SportsStore.Tests.pdb
+C:\Users\Pierre\Desktop\Dossier études 2014 -\Dossier Paul Lambin\BLOC 3 2019 - 2020\Cours\Quadrimestre 1\ASP.NET\S3\SportsStore\SportsStore.Tests\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\Pierre\Desktop\Dossier études 2014 -\Dossier Paul Lambin\BLOC 3 2019 - 2020\Cours\Quadrimestre 1\ASP.NET\S3\SportsStore\SportsStore.Tests\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\Pierre\Desktop\Dossier études 2014 -\Dossier Paul Lambin\BLOC 3 2019 - 2020\Cours\Quadrimestre 1\ASP.NET\S3\SportsStore\SportsStore.Tests\bin\Debug\netcoreapp2.2\libman.json
+C:\Users\Pierre\Desktop\Dossier études 2014 -\Dossier Paul Lambin\BLOC 3 2019 - 2020\Cours\Quadrimestre 1\ASP.NET\S3\SportsStore\SportsStore.Tests\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
